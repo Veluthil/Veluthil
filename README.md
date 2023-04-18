@@ -6,11 +6,6 @@
 <h1>Hey there, I'm Martyna.</h1>
   <h3>I'm a self-taught Python Back-End Developer with a passion for coding and a love for a good cup of coffee. I enjoy creating aesthetic and well-designed applications that are not only functional but also visually appealing.</h3>
 <div align="center">
-<div id="badges">
-  <a href="https://www.linkedin.com/in/martyna-boradyn/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:martyna.boradyn@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-</div>
 <img src="https://komarev.com/ghpvc/?username=Veluthil&style=flat-square&color=blue" alt="Veluthil's Profile Views"/>
 </div>
 </div>
@@ -27,7 +22,7 @@
 When I'm not studying or reading, you can often find me indulging in my hobbies, such as playing video games or watching anime/movies.
 
 ### 🌓 Contact Information:
-- LinkedIn: linkedin.com/in/martyna-boradyn/
+- LinkedIn: [linkedin.com/in/martyna-boradyn/](https://www.linkedin.com/in/martyna-boradyn/)
 - Email: martyna.boradyn@gmail.com
 
 ### 🌔 Currently learning:
