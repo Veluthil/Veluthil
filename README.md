@@ -14,7 +14,19 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Veluthil&style=flat-square&color=blue" alt="Veluthil's Profile Views"/>
 </div>
+</div>
 <br>
+
+
+### :woman_technologist: About Me :
+- :telescope: I’m learning and broadening my Python skills everyday.
+
+- :seedling: Looking for job opportunities (also any freelance jobs).
+
+- :zap: I enjoy reading about cybersecurity and catching flags on TryHackMe.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-martyna-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
