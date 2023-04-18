@@ -11,7 +11,7 @@
 </div>
 <br>
 
-
+---
 ### :crescent_moon: About Me :
 - I'm constantly learning and broadening my Python skills every day.
 - I'm actively looking for job opportunities and freelance projects to further enhance my expertise.
@@ -21,17 +21,22 @@
 
 When I'm not studying or reading, you can often find me indulging in my hobbies, such as playing video games or watching anime/movies.
 
+---
+
 ### 🌓 Contact Information:
 - LinkedIn: [linkedin.com/in/martyna-boradyn/](https://www.linkedin.com/in/martyna-boradyn/)
 - Email: martyna.boradyn@gmail.com
 
-### 🌔 Currently learning:
+---
+
+### 🌔 Currently Learning:
 - Docker
 - Django
 - Linux
 
+---
 
-### :full_moon: Languages and Tools :
+### :full_moon: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain.svg" title="Pytest" alt="Pytest" width="40" height="40"/>
@@ -45,3 +50,12 @@ When I'm not studying or reading, you can often find me indulging in my hobbies,
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 </div>
+
+---
+
+### 🌗 My Statistics:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veluthil&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veluthil&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
