@@ -4,8 +4,7 @@
 
 <div align="center">
 <h1>Hey there, I'm Martyna.</h1>
-  <h3>Self-taught Python Back-End Developer.</h3>
-  <h3>My love for coding with a good amount of coffee fuels my passion for creating aesthetic and well-designed applications.</h3>
+  <h3>I'm a self-taught Python Back-End Developer with a passion for coding and a love for a good cup of coffee. I enjoy creating aesthetic and well-designed applications that are not only functional but also visually appealing.</h3>
 <div align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/martyna-boradyn/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
@@ -19,19 +18,22 @@
 
 
 ### :crescent_moon: About Me :
-- I’m learning and broadening my Python skills everyday.
+- I'm constantly learning and broadening my Python skills every day.
+- I'm actively looking for job opportunities and freelance projects to further enhance my expertise.
+- In my free time, I enjoy reading about cybersecurity and challenging myself by catching flags on TryHackMe.
+- I'm also an avid learner of Japanese language and Japanese culture, which is one of my main hobbies.
+- I'm always eager to gain new knowledge and improve myself daily.
 
-- Looking for job opportunities (also any freelance jobs).
+When I'm not studying or reading, you can often find me indulging in my hobbies, such as playing video games or watching anime/movies.
 
-- I enjoy reading about cybersecurity and catching flags on TryHackMe in my free time.
+### 🌓 Contact Information:
+- LinkedIn: linkedin.com/in/martyna-boradyn/
+- Email: martyna.boradyn@gmail.com
 
-- My other main hobby is learning Japanese and Japan culture.
-
-- I am crazy about gaining new knowledge and improving myself daily.
-
-- When not studying/reading, I enjoy playing video games or watching anime/movies.
-
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martyna-boradyn/)  or  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:martyna.boradyn@gmail.com)
+### 🌔 Currently learning:
+- Docker
+- Django
+- Linux
 
 
 ### :full_moon: Languages and Tools :
