@@ -8,9 +8,9 @@
   <h3>My love for coding with a good amount of coffee fuels my passion for creating aesthetic and well-designed applications.</h3>
 <div align="center">
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/martyna-boradyn/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:martyna.boradyn@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Veluthil&style=flat-square&color=blue" alt="Veluthil's Profile Views"/>
 </div>
@@ -25,7 +25,7 @@
 
 - :zap: I enjoy reading about cybersecurity and catching flags on TryHackMe.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-martyna-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martyna-boradyn/)  or  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:martyna.boradyn@gmail.com)
 
 
 ### :hammer_and_wrench: Languages and Tools :
