@@ -2,13 +2,15 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjYzMDU2OWM4MTA4ZmM1NGQ5Nzc1YzhlNTkwZDU4YzI1ZTgxZDIyZSZjdD1z/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hey, I'm Martyna.</h1>
-<h3 align="center"></h3>
+<div align="center">
+<h1>Hey there, I'm Martyna.</h1>
+  <h3>Self-taught Python Back-End Developer.</h3>
+  <h3>My love for coding with a good amount of coffee fuels my passion for creating aesthetic and well-designed applications.</h3>
 <div align="center">
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Veluthil&style=flat-square&color=blue" alt="Veluthil's Profile Views"/>
 </div>
