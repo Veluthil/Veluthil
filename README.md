@@ -6,7 +6,7 @@
 <h1>Hey there, I'm Martyna.</h1>
   <h3>I'm a self-taught Python Back-End Developer with a passion for coding and a love for a good cup of coffee. I enjoy creating aesthetic and well-designed applications that are not only functional but also visually appealing.</h3>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Veluthil&style=flat-square&color=blue" alt="Veluthil's Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Veluthil&style=flat-square&color=green" alt="Veluthil's Profile Views"/>
 </div>
 </div>
 <br>
@@ -55,8 +55,8 @@ When I'm not studying or reading, you can often find me indulging in my hobbies,
 
 ### 🌗 My Statistics:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veluthil&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veluthil&layout=compact&theme=dark&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veluthil&show_icons=true&theme=dark&bg_color=000000)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veluthil&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veluthil&layout=compact&theme=tokyonight&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veluthil&show_icons=true&theme=tokyonight&bg_color=000000)
 
 
