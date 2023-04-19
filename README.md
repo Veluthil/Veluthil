@@ -35,6 +35,8 @@ When I'm not studying or reading, you can often find me indulging in my hobbies,
 - Django
 - Linux
 - Git
+
+
 I want to dive into DevOps and AI topics in the near future too.
 
 ---
