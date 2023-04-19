@@ -13,11 +13,12 @@
 
 ---
 ### :crescent_moon: About Me :
-- I'm constantly learning and broadening my Python skills every day.
-- I'm actively looking for job opportunities and freelance projects to further enhance my expertise.
-- In my free time, I enjoy reading about cybersecurity and challenging myself by catching flags on TryHackMe.
-- I'm also an avid learner of Japanese language and Japanese culture, which is one of my main interests.
-- I'm always eager to gain new knowledge and improve myself daily.
+- I'm a dedicated Python developer who enjoys expanding my knowledge and skills in this field every day.
+- I'm actively seeking job opportunities and freelance projects to further advance my expertise and contribute to exciting projects.
+- In my free time, I'm an avid cybersecurity enthusiast and enjoy challenging myself by participating in TryHackMe's capture the flag challenges.
+- I'm also passionate about Japanese language and culture, which is one of my main interests and ongoing learning journeys.
+- As a lifelong learner, I'm always eager to acquire new knowledge and improve myself daily.
+- I have a background in veterinary medicine and enjoy combining my interests in animals and medicine whenever possible.
 
 When I'm not studying or reading, you can often find me indulging in my hobbies, such as playing video games or watching anime/movies.
 
