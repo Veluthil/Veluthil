@@ -45,6 +45,7 @@ I want to dive into DevOps and AI topics in the near future too.
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+  ![Jinja](https://img.shields.io/badge/-Jinja-red?style=flat-square&logo=Jinja)
   ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
   ![Pytest](https://img.shields.io/badge/-Pytest-black?style=flat-square&logo=Pytest)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
