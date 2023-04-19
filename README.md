@@ -16,7 +16,7 @@
 - I'm constantly learning and broadening my Python skills every day.
 - I'm actively looking for job opportunities and freelance projects to further enhance my expertise.
 - In my free time, I enjoy reading about cybersecurity and challenging myself by catching flags on TryHackMe.
-- I'm also an avid learner of Japanese language and Japanese culture, which is one of my main hobbies.
+- I'm also an avid learner of Japanese language and Japanese culture, which is one of my main interests.
 - I'm always eager to gain new knowledge and improve myself daily.
 
 When I'm not studying or reading, you can often find me indulging in my hobbies, such as playing video games or watching anime/movies.
@@ -26,6 +26,7 @@ When I'm not studying or reading, you can often find me indulging in my hobbies,
 ### 🌓 Contact Information:
 - LinkedIn: [linkedin.com/in/martyna-boradyn/](https://www.linkedin.com/in/martyna-boradyn/)
 - Email: martyna.boradyn@gmail.com
+- Reddit: [reddit.com/user/VantablackWitch](https://www.reddit.com/user/VantablackWitch)
 
 ---
 
@@ -33,23 +34,26 @@ When I'm not studying or reading, you can often find me indulging in my hobbies,
 - Docker
 - Django
 - Linux
+- Git
+I want to dive into DevOps and AI topics in the near future too.
 
 ---
 
 ### :full_moon: Languages and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-plain.svg" title="Pytest" alt="Pytest" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-</div>
+
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+  ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
+  ![Pytest](https://img.shields.io/badge/-Pytest-black?style=flat-square&logo=Pytest)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+  ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
+  ![SQLALchemy](https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=SQLAlchemy)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 ---
 
