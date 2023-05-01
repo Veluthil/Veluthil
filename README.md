@@ -20,7 +20,7 @@
 - As a lifelong learner, I'm always eager to acquire new knowledge and improve myself daily.
 - I have a background in veterinary medicine and enjoy combining my interests in animals and medicine whenever possible.
 
-When I'm not studying or reading, you can often find me indulging in my hobbies, such as playing video games or watching anime/movies.
+When I'm not studying, reading or traveling, you can often find me indulging in my other hobbies, such as playing video games, painting or watching anime/movies.
 
 ---
 
