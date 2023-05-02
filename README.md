@@ -37,7 +37,7 @@ When I'm not studying, reading or traveling, you can often find me indulging in 
 - AWS
 - Git
 
-I want to dive into DevOps and AI topics in the near future too.
+I plan to dive into DevOps and AI topics in the near future too.
 
 ---
 
