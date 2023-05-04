@@ -37,6 +37,7 @@ When I'm not studying, reading or traveling, you can often find me indulging in 
 - Django
 - AWS
 - Git
+- Linux
 
 I plan to dive into DevOps and AI topics in the near future too.
 
