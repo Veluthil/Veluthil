@@ -12,7 +12,7 @@
 <br>
 
 ---
-### :crescent_moon: About Me :
+### 🌒: About Me :
 - I'm a dedicated Python developer who enjoys expanding my knowledge and skills in this field every day.
 - I'm actively seeking job opportunities and freelance projects to further advance my expertise and contribute to exciting projects.
 - In my free time, I'm an avid cybersecurity enthusiast and enjoy challenging myself by participating in TryHackMe's capture the flag challenges.
@@ -41,7 +41,15 @@ I plan to dive into DevOps and AI topics in the near future too.
 
 ---
 
-### :full_moon: Languages and Tools:
+### 🌕 Main Projects:
+- [Dokusho Vernissage](https://github.com/Veluthil/eCommerce-Store)
+![dv-ss-1](https://github.com/Veluthil/Veluthil/assets/108438343/835e9dcf-5e81-46cd-b25f-c3ea52b51412)
+
+- [Martyna's Blog](https://github.com/Veluthil/Blog-with-users-Flask)
+![fb-ss-1](https://github.com/Veluthil/Veluthil/assets/108438343/ca404b1c-ca06-481f-8e0a-7a7466db59c6)
+
+
+### 🌗 Languages and Tools:
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
@@ -61,7 +69,7 @@ I plan to dive into DevOps and AI topics in the near future too.
 
 ---
 
-### 🌗 My Statistics:
+### 🌘 My Statistics:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veluthil&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veluthil&layout=compact&theme=tokyonight&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
