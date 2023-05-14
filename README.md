@@ -42,10 +42,19 @@ I plan to dive into DevOps and AI topics in the near future too.
 ---
 
 ### 🌕 Main Projects:
-- [Dokusho Vernissage](https://github.com/Veluthil/eCommerce-Store)
+- Dokusho Vernissage
+<a href="(https://github.com/Veluthil/eCommerce-Store)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=eCommerce-Store&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Dokusho Vernissage" />
+</a>
+
 ![dv-ss-1](https://github.com/Veluthil/Veluthil/assets/108438343/835e9dcf-5e81-46cd-b25f-c3ea52b51412)
 
-- [Martyna's Blog](https://github.com/Veluthil/Blog-with-users-Flask)
+
+- Martyna's Blog
+<a href="(https://github.com/Veluthil/Blog-with-users-Flask)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=Blog-with-users-Flask&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Dokusho Vernissage" />
+</a>
+
 ![fb-ss-1](https://github.com/Veluthil/Veluthil/assets/108438343/ca404b1c-ca06-481f-8e0a-7a7466db59c6)
 
 
