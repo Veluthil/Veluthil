@@ -41,21 +41,17 @@ I plan to dive into DevOps and AI topics in the near future too.
 ---
 
 ### 🌕 Main Projects:
-- Dokusho Vernissage
+- [Live Demo](https://dokusho-vernissage.vercel.app/) & [Repo](https://github.com/Veluthil/eCommerce-Store)
 <a href="(https://github.com/Veluthil/eCommerce-Store)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=eCommerce-Store&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Dokusho Vernissage" />
 </a>
 
-![dv-ss-1](https://github.com/Veluthil/Veluthil/assets/108438343/835e9dcf-5e81-46cd-b25f-c3ea52b51412)
-
-
-- Martyna's Blog
+- [Live Demo](https://martyna-blog.onrender.com/) & [Repo](https://github.com/Veluthil/Blog-with-users-Flask)
 <a href="(https://github.com/Veluthil/Blog-with-users-Flask)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=Blog-with-users-Flask&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Dokusho Vernissage" />
 </a>
 
-![fb-ss-1](https://github.com/Veluthil/Veluthil/assets/108438343/ca404b1c-ca06-481f-8e0a-7a7466db59c6)
-
+---
 
 ### 🌗 Languages and Tools:
 
@@ -79,8 +75,14 @@ I plan to dive into DevOps and AI topics in the near future too.
 
 ### 🌘 My Statistics:
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Veluthil&theme=onedark)](https://github.com/Veluthil/github-profile-trophy)
+---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veluthil&theme=tokyonight&background=000000)](https://git.io/streak-stats)
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veluthil&layout=compact&theme=tokyonight&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veluthil&show_icons=true&theme=tokyonight&bg_color=000000)
+
 
 
