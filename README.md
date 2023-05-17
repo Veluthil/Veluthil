@@ -75,9 +75,6 @@ I plan to dive into DevOps and AI topics in the near future too.
 
 ### 🌘 My Statistics:
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Veluthil&theme=onedark)](https://github.com/Veluthil/github-profile-trophy)
----
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veluthil&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veluthil&layout=compact&theme=tokyonight&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
