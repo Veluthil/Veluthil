@@ -15,7 +15,7 @@
 ### 🌒: About Me :
 - I'm a dedicated Python developer who enjoys expanding my knowledge and skills in this field every day.
 - I'm actively seeking job opportunities and freelance projects to further advance my expertise and contribute to exciting projects.
-- In my free time, I'm an avid cybersecurity enthusiast and enjoy challenging myself by participating in TryHackMe's capture the flag challenges.
+- In my free time, I'm an avid cybersecurity enthusiast and enjoy challenging myself by participating in TryHackMe's CTF challenges.
 - I'm also passionate about Japanese language and culture, which is one of my main interests and ongoing learning journeys.
 - As a lifelong learner, I'm always eager to acquire new knowledge and improve myself daily.
 - I have a background in veterinary medicine and enjoy combining my interests in animals and medicine whenever possible.
@@ -33,7 +33,7 @@ When I'm not studying, reading or traveling, you can often find me indulging in 
 
 ### 🌔 Currently Learning:
 - Docker
-- AWS
+- Kubernets
 - Linux
 
 Currently, my main focus lies in backend development. However, I have future plans to redirect my learning path towards either DevOps or cybersecurity, both of which intrigue me greatly. Additionally, I hold a strong interest in exploring AI topics as part of my ongoing learning journey.
