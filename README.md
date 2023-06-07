@@ -75,7 +75,7 @@ Currently, my main focus lies in backend development. However, I have future pla
 ---
 
 ### 🌘 My Statistics:
-
+![tryhackme stats](https://raw.githubusercontent.com/Veluthil/Veluthil/master/assets/thm_propic.png)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veluthil&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veluthil&layout=compact&theme=tokyonight&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
