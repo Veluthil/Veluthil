@@ -27,7 +27,7 @@ When I'm not studying, reading or traveling, you can often find me indulging in 
 ### 🌓 Contact Information:
 - LinkedIn: [linkedin.com/in/martyna-boradyn/](https://www.linkedin.com/in/martyna-boradyn/)
 - Email: martyna.boradyn@gmail.com or vveluthil@gmail.com
-- TryHackMe: Veluthil
+- TryHackMe: [Veluthil](https://tryhackme.com/p/Veluthil)
 
 ---
 
