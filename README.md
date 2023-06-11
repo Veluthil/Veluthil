@@ -18,9 +18,9 @@
 - In my free time, I'm an avid cybersecurity enthusiast and enjoy challenging myself by participating in TryHackMe's CTF challenges.
 - I'm also passionate about Japanese language and culture, which is one of my main interests and ongoing learning journeys.
 - As a lifelong learner, I'm always eager to acquire new knowledge and improve myself daily.
-- I have a background in veterinary medicine and enjoy combining my interests in animals and medicine whenever possible.
+- I have a background in veterinary medicine (DVM) and enjoy combining my interests in animals and medicine whenever possible.
 
-When I'm not studying, reading or traveling, you can often find me indulging in my other hobbies, such as playing video games, painting or watching anime/movies.
+When I'm not studying, reading or traveling, you can often find me indulging in my other hobbies, such as playing video games, painting/drawing or watching anime/movies.
 
 ---
 
