@@ -75,7 +75,7 @@ Currently, my main focus lies in backend development. However, I have future pla
 ---
 
 ### 🌘 My Statistics:
-[<img src="https://tryhackme-badges.s3.amazonaws.com/Veluthil.png" alt="TryHackMe">](https://tryhackme.com/p/Veluthil)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Veluthil.png)](https://tryhackme.com/p/Veluthil)
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veluthil&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 ---
