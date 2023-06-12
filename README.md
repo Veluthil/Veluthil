@@ -12,7 +12,7 @@
 <br>
 
 ---
-### 🌒: About Me :
+### 🌒 About Me :
 - I'm a dedicated Python developer who enjoys expanding my knowledge and skills in this field every day.
 - I'm actively seeking job opportunities and freelance projects to further advance my expertise and contribute to exciting projects.
 - In my free time, I'm an avid cybersecurity enthusiast and enjoy challenging myself by participating in TryHackMe's CTF challenges.
