@@ -20,7 +20,7 @@
 - As a lifelong learner, I'm always eager to acquire new knowledge and improve myself daily.
 - I have a background in veterinary medicine (DVM) and enjoy combining my interests in animals and medicine whenever possible.
 
-When I'm not coding or studying, you can often find me indulging in my other hobbies, such as 
+When I'm not coding or studying, you can often find me indulging in my other hobbies, such as:
 - playing video games, 
 - painting/drawing, 
 - reading books/manga, 
