@@ -81,11 +81,12 @@ Currently, my main focus lies in backend development. However, I have future pla
 ---
 
 ### 🌘 My Statistics:
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Veluthil.png)](https://tryhackme.com/p/Veluthil)
----
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veluthil&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Veluthil&layout=donut&theme=tokyonight&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Veluthil&show_icons=true&theme=tokyonight&bg_color=000000)
+---
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Veluthil.png)](https://tryhackme.com/p/Veluthil)
+---
 
