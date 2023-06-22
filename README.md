@@ -36,29 +36,7 @@ When I'm not coding or studying, you can often find me indulging in my other hob
 
 ---
 
-### 🌔 Currently Learning:
-- Docker
-- Kubernetes
-- Linux
-
-Currently, my main focus lies in backend development. However, I have future plans to redirect my learning path towards either DevOps or cybersecurity, both of which intrigue me greatly. Additionally, I hold a strong interest in exploring AI topics as part of my ongoing learning journey.
-
----
-
-### 🌕 Main Projects:
-- [Live Demo](https://dokusho-vernissage.vercel.app/) & [Repo](https://github.com/Veluthil/eCommerce-Store)
-<a href="(https://github.com/Veluthil/eCommerce-Store)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=eCommerce-Store&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="Dokusho Vernissage" />
-</a>
-
-- [Live Demo](https://martyna-blog.onrender.com/) & [Repo](https://github.com/Veluthil/Blog-with-users-Flask)
-<a href="(https://github.com/Veluthil/Blog-with-users-Flask)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=Blog-with-users-Flask&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="Dokusho Vernissage" />
-</a>
-
----
-
-### 🌗 Languages and Tools:
+### 🌔 Languages and Tools:
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
@@ -79,6 +57,28 @@ Currently, my main focus lies in backend development. However, I have future pla
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 ---
+
+### 🌕 Currently Learning:
+- Docker, Docker-Compose
+- Linux
+
+Currently, my main focus lies in backend development. However, I have future plans to redirect my learning path towards either DevOps or cybersecurity, both of which intrigue me greatly. Additionally, I hold a strong interest in exploring AI topics as part of my ongoing learning journey.
+
+---
+
+### 🌗 Main Projects:
+- [Live Demo](https://dokusho-vernissage.vercel.app/) & [Repo](https://github.com/Veluthil/eCommerce-Store)
+<a href="(https://github.com/Veluthil/eCommerce-Store)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=eCommerce-Store&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="Dokusho Vernissage" />
+</a>
+
+- [Live Demo](https://martyna-blog.onrender.com/) & [Repo](https://github.com/Veluthil/Blog-with-users-Flask)
+<a href="(https://github.com/Veluthil/Blog-with-users-Flask)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=Blog-with-users-Flask&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="Dokusho Vernissage" />
+</a>
+
+---
+
 
 ### 🌘 My Statistics:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Veluthil&theme=tokyonight&background=000000)](https://git.io/streak-stats)
