@@ -47,6 +47,9 @@ When I'm not coding or studying, you can often find me indulging in my other hob
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
   ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+  ![Kali](https://img.shields.io/badge/Kali-black?style=flat-square&logo=kalilinux)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=ubuntu)
+  ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows)
   ![Pytest](https://img.shields.io/badge/-Pytest-black?style=flat-square&logo=Pytest)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
   ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
@@ -55,12 +58,28 @@ When I'm not coding or studying, you can often find me indulging in my other hob
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva)
+  ![Atom](https://img.shields.io/badge/-Atom-black?style=flat-square&logo=atom)
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code)
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
+  ![Shell Script](https://img.shields.io/badge/-shell_script-black?style=flat-square&logo=gnu-bash)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=Matplotlib)
+  ![NumPy](https://img.shields.io/badge/numpy-black?style=flat-square&logo=numpy)
+  ![Pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas)
+  [Plotly](https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly)
+  ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+  
+
 
 ---
 
 ### 🌕 Currently Learning:
 - Docker, Docker-Compose
+- Kubernetes
 - Linux
+- AWS
 
 Currently, my main focus lies in backend development. However, I have future plans to redirect my learning path towards either DevOps or cybersecurity, both of which intrigue me greatly. Additionally, I hold a strong interest in exploring AI topics as part of my ongoing learning journey.
 
