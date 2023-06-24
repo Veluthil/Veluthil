@@ -58,20 +58,19 @@ When I'm not coding or studying, you can often find me indulging in my other hob
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  ![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva)
-  ![Atom](https://img.shields.io/badge/-Atom-black?style=flat-square&logo=atom)
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code)
   ![PowerShell](https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=powershell)
   ![Shell Script](https://img.shields.io/badge/-Shell_Script-black?style=flat-square&logo=gnu-bash)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=Matplotlib)
   ![NumPy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
   ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
   ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly)
+  ![Atom](https://img.shields.io/badge/-Atom-black?style=flat-square&logo=atom)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code)
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
   ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+  ![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva)
   
-
 
 ---
 
