@@ -78,9 +78,8 @@ When I'm not coding or studying, you can often find me indulging in my other hob
 - Docker, Docker-Compose
 - Kubernetes
 - Linux
-- AWS
 
-Currently, my main focus lies in backend development. However, I have future plans to redirect my learning path towards either DevOps or cybersecurity, both of which intrigue me greatly. Additionally, I hold a strong interest in exploring AI topics as part of my ongoing learning journey.
+My main focus lies in backend development, however, I have future plans to redirect my learning path towards either DevOps or cybersecurity, both of which intrigue me greatly. Additionally, I hold a strong interest in exploring AI topics as part of my ongoing learning journey.
 
 ---
 
