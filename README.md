@@ -69,7 +69,6 @@ When I'm not coding or studying, you can often find me indulging in my other hob
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code)
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
   ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-  ![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva)
   
 
 ---
