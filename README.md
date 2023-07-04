@@ -73,10 +73,12 @@ When I'm not coding or studying, you can often find me indulging in my other hob
 
 ---
 
-### 🌕 Currently Learning:
+### 🌕 Currently Learning and planning to dive into:
 - Docker, Docker-Compose
-- Kubernetes
 - Linux
+- AWS (EC2, Elastic Beanstalk, S3, RDS)
+- Terraform, Ansible, Jenkins
+- Kubernetes
 
 My main focus lies in backend development, however, I paln to redirect my learning path towards either DevOps or cybersecurity, both of which intrigue me greatly. Additionally, I hold a strong interest in exploring AI topics as part of my ongoing learning journey.
 
