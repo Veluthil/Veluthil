@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1>Hey there, I'm Martyna.</h1>
-  <h3>I'm a self-taught Python Developer with a passion for coding and a love for a good cup of coffee. I enjoy creating aesthetic and well-designed applications that are not only functional but also visually appealing.</h3>
+  <h3>I'm a self-taught Python Developer with a passion for coding, DevOps and cybersecurity (and also a huge love for a good cup of coffee). I enjoy creating aesthetic and well-designed applications that are not only functional but also visually appealing.</h3>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Veluthil&style=flat-square&color=green" alt="Veluthil's Profile Views"/>
 </div>
