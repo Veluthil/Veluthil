@@ -67,6 +67,7 @@ When I'm not coding or studying, you can often find me indulging in my other hob
   ![Atom](https://img.shields.io/badge/-Atom-black?style=flat-square&logo=atom)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code)
+  ![Vagrant](https://img.shields.io/badge/-Vagrant-black?style=flat-square&&logo=vagrant)
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
   ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
   
