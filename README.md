@@ -49,6 +49,7 @@ When I'm not coding or studying, you can often find me indulging in my other hob
   ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
   ![Kali](https://img.shields.io/badge/-Kali-black?style=flat-square&logo=kalilinux)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+  ![CentOS](https://img.shields.io/badge/-CentOS-black?style=flat-square&logo=CentOS)
   ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
   ![Pytest](https://img.shields.io/badge/-Pytest-black?style=flat-square&logo=Pytest)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
