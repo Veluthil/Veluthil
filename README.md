@@ -76,9 +76,10 @@ When I'm not coding or studying, you can often find me indulging in my other hob
 ---
 
 ### 🌕 Currently Learning (& Planning to Dive Into):
-- AWS (EC2, Elastic Beanstalk, S3, RDS, CLI, Cloudwatch)
+- AWS (EC2, EBS, Elastic Beanstalk, S3, RDS, CLI, Cloudwatch)
 - Docker, Docker-Compose
 - Linux (Ubuntu, CentOS)
+- soon will start learning: Maven, Ansible, Kubernetes, Terraform, Jenkins, CloudFormation
 
 My main focus lies in backend development, however, I plan to redirect my learning path towards either DevOps or cybersecurity, both of which intrigue me greatly. Additionally, I hold a strong interest in exploring AI topics as part of my ongoing learning journey.
 
