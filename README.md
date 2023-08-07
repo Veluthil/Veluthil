@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1>Hey there, I'm Martyna.</h1>
-  <h3>I am a self-taught Python Developer driven by a deep passion for coding and fueled by the perfect cup of coffee. Alongside my coding journey, I am enthusiastic about exploring the realms of DevOps and cybersecurity, constantly expanding my knowledge in these areas.</h3>
+  <h3>I am a Python Developer driven by a deep passion for coding and fueled by the perfect cup of coffee. Alongside my coding journey, I am enthusiastic about exploring the realms of DevOps and cybersecurity, constantly expanding my knowledge in these areas.</h3>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Veluthil&style=flat-square&color=green" alt="Veluthil's Profile Views"/>
 </div>
