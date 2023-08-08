@@ -13,7 +13,7 @@
 
 ---
 ### 🌒 About Me :
-- I'm a dedicated Python developer who enjoys expanding my knowledge and skills in this field every day.
+- I'm a dedicated Python developer and a beginner DevOps who enjoys expanding my knowledge and skills in these fields every day.
 - I'm actively seeking job opportunities and freelance projects to further advance my expertise and contribute to exciting projects.
 - In my free time, I'm an avid cybersecurity enthusiast and enjoy challenging myself by participating in TryHackMe's CTF challenges.
 - I'm also passionate about Japanese language and culture, which is one of my main interests and ongoing learning journeys.
