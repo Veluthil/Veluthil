@@ -65,6 +65,7 @@ When I'm not coding or studying, you can often find me indulging in my other hob
   ![NumPy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy)
   ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
   ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly)
+  ![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=selenium)
   ![Atom](https://img.shields.io/badge/-Atom-black?style=flat-square&logo=atom)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=visual-studio-code)
