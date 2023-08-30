@@ -13,11 +13,13 @@
 
 ---
 ### 🌒 About Me :
-- I am a devoted Python developer and an aspiring DevOps enthusiast, driven by a relentless pursuit of knowledge and skill enhancement in these domains each day.
-- Actively pursuing job opportunities and freelance projects, I am committed to elevating my expertise and making meaningful contributions to captivating ventures.
-- During my leisure hours, I immerse myself in the realm of cybersecurity, passionately engaging with TryHackMe's CTF challenges to continuously challenge my abilities.
-- My ardor extends to Japanese language and culture, serving as a profound passion and an ongoing avenue of exploration.
-- Moreover, my academic background in veterinary medicine (DVM) uniquely complements my pursuits.
+- I'm a dedicated Python developer with a growing interest in DevOps, always seeking to expand my knowledge and skills in these areas.
+- Actively exploring job opportunities and freelance projects, my goal is to enhance my expertise and contribute meaningfully to exciting endeavors.
+- In my free time, I delve into the world of cybersecurity, enthusiastically tackling CTF challenges on platforms like TryHackMe to continuously improve my skills.
+- Beyond tech, I'm captivated by Japanese language and culture, an ongoing passion that I'm eager to explore further.
+- Adding a unique dimension to my journey, my background in veterinary medicine (DVM) brings a distinct perspective to my pursuits.
+- Looking ahead, I aspire to dive into the realm of AI, driven by curiosity and the desire to create impactful solutions.
+- With an open mind and a hunger for new knowledge, I'm also excited about learning any new technologies and languages to broaden my horizons.
 
   
 When I'm not coding or studying, you can often find me indulging in my other hobbies, such as:
