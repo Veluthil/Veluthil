@@ -79,10 +79,10 @@ When I'm not coding or studying, you can often find me indulging in my other hob
 ---
 
 ### 🌕 Currently Learning (& Planning to Dive Into):
-- AWS (EC2, EBS, Elastic Beanstalk, S3, RDS, CLI, Cloudwatch, etc.)
 - CI/CD with Jenkins
-- soon will start learning: Ansible, Kubernetes, Terraform, CloudFormation
-
+- Ansible
+- soon will start learning: Kubernetes, Terraform, CloudFormation
+  
 ---
 
 ### 🌗 Main Projects:
