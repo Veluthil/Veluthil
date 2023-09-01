@@ -79,9 +79,7 @@ When I'm not coding or studying, you can often find me indulging in my other hob
 ---
 
 ### 🌕 Currently Learning (& Planning to Dive Into):
-- CI/CD with Jenkins
 - Ansible
-- soon will start learning: Kubernetes, Terraform, CloudFormation
   
 ---
 
