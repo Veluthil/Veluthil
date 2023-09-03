@@ -54,6 +54,7 @@ When I'm not coding or studying, you can often find me indulging in my other hob
   ![CentOS](https://img.shields.io/badge/-CentOS-black?style=flat-square&logo=CentOS)
   ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows)
   ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
   ![Pytest](https://img.shields.io/badge/-Pytest-black?style=flat-square&logo=Pytest)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
   ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite)
