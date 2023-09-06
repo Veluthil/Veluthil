@@ -81,7 +81,6 @@ When I'm not coding or studying, you can often find me indulging in my other hob
 
 ### 🌕 Currently Learning (& Planning to Dive Into):
 - Ansible
-- CI/CD (with Jenkins, AWS, Docker)
   
 ---
 
