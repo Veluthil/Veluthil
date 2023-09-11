@@ -38,7 +38,7 @@ When I'm not coding or studying, you can often find me indulging in my other hob
 
 ---
 
-### 🌔 Languages and Tools:
+### 🌔 Languages, Technologies and Tools:
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
