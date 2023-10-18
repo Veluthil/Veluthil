@@ -14,7 +14,6 @@
 ---
 ### 🌒 About Me :
 - I'm a dedicated Python developer with a growing interest in DevOps, always seeking to expand my knowledge and skills in these areas.
-- Actively exploring job opportunities and freelance projects, my goal is to enhance my expertise and contribute meaningfully to exciting endeavors.
 - In my free time, I delve into the world of cybersecurity, enthusiastically tackling CTF challenges on platforms like TryHackMe to continuously improve my skills.
 - Beyond tech, I'm captivated by Japanese language and culture, an ongoing passion that I'm eager to explore further.
 - Adding a unique dimension to my journey, my background in veterinary medicine (DVM) brings a distinct perspective to my pursuits.
