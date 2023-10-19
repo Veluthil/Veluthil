@@ -78,7 +78,7 @@ When I'm not coding or studying, you can often find me indulging in my other hob
 
 ---
 
-### 🌕 Currently Learning (& Planning to Dive Into):
+### 🌕 Currently Learning (& Soon Will Dive Into):
 - Ansible
 - (Kubernetes)
 - (Terraform)
