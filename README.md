@@ -13,7 +13,8 @@
 
 ---
 ### 🌒 About Me :
-- I'm a dedicated Python developer with a growing interest in DevOps, always seeking to expand my knowledge and skills in these areas.
+- I'm a Python Dev, soon to embark on my journey as a Junior IT Specialist, with a goal of becoming a DevOps engineer.
+- My tech journey began with web applications and APIs developed with Django and Flask, sparking my passion for the world of DevOps.
 - In my free time, I delve into the world of cybersecurity, enthusiastically tackling CTF challenges on platforms like TryHackMe to continuously improve my skills.
 - Beyond tech, I'm captivated by Japanese language and culture, an ongoing passion that I'm eager to explore further.
 - Adding a unique dimension to my journey, my background in veterinary medicine (DVM) brings a distinct perspective to my pursuits.
