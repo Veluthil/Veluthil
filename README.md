@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1>Hey there, I'm Martyna.</h1>
-  <h3>I'm an emerging DevOps Engineer and a continuously evolving Python Developer, with an insatiable hunger for knowledge and an added passion for cybersecurity – all fueled by the perfect cup of coffee.</h3>
+  <h3>I'm an emerging DevOps Engineer and a continuously evolving Python Programmer, with an insatiable hunger for knowledge and an added passion for cybersecurity – all fueled by the perfect cup of coffee.</h3>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Veluthil&style=flat-square&color=green" alt="Veluthil's Profile Views"/>
 </div>
@@ -13,7 +13,7 @@
 
 ---
 ### 🌒 About Me :
-- I'm a Python Dev, soon to embark on my journey as a Junior IT Specialist, with a goal of becoming a DevOps Engineer.
+- I'm a Python enthusiast, soon to embark on my journey as a Junior IT Specialist, with a goal of becoming a DevOps Engineer.
 - My tech journey began with web applications and APIs developed with Django and Flask, sparking my passion for the world of DevOps.
 - In my free time, I delve into the world of cybersecurity, enthusiastically tackling CTF challenges on platforms like TryHackMe to continuously improve my skills.
 - Beyond tech, I'm captivated by Japanese language and culture, an ongoing passion that I'm eager to explore further.
