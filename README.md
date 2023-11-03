@@ -87,7 +87,7 @@ When I'm not coding or studying, you can often find me indulging in my other hob
 ---
 
 ### 🌗 Main Projects:
-- [Repo](https://github.com/Veluthil/My-DevOps-Journey) - Ongoing Project
+- [Repo](https://github.com/Veluthil/My-DevOps-Journey) - In Progress
 <a href="(https://github.com/Veluthil/My-DevOps-Journey)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Veluthil&repo=My-DevOps-Journey&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=000000" alt="My DevOps Journey" />
 </a>
