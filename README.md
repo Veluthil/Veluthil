@@ -46,7 +46,7 @@ When I'm not coding or studying, you can often find me indulging in my other hob
   ![Jinja](https://img.shields.io/badge/-Jinja-black?style=flat-square&logo=Jinja)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
   ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
   ![Kali](https://img.shields.io/badge/-Kali-black?style=flat-square&logo=kalilinux)
