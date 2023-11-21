@@ -27,7 +27,7 @@ When I'm not coding or studying, you can often find me indulging in my other hob
 - playing video games, 
 - painting/drawing, 
 - reading books/manga, 
-- watching anime/movies, 
+- watching anime/movies/tv series, 
 - or traveling.
 
 ---
