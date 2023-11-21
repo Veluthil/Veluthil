@@ -23,6 +23,7 @@
 
   
 When I'm not coding or studying, you can often find me indulging in my other hobbies, such as:
+- learning Japanese,
 - playing video games, 
 - painting/drawing, 
 - reading books/manga, 
