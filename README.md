@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1>Hey there, I'm Martyna.</h1>
-  <h3>I'm an emerging DevOps Engineer and a continuously evolving Python Programmer, with an insatiable hunger for knowledge and an added passion for cybersecurity – all fueled by the perfect cup of coffee.</h3>
+  <h3>I'm an emerging DevOps Engineer with an insatiable hunger for knowledge and an added passion for Python and cybersecurity – all fueled by the perfect cup of coffee.</h3>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Veluthil&style=flat-square&color=green" alt="Veluthil's Profile Views"/>
 </div>
