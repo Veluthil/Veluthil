@@ -13,7 +13,7 @@
 
 ---
 ### 🌒 About Me :
-- I'm a tech enthusiast, currently working as a Junior IT Specialist DevOps, with a goal of becoming a DevOps/Cloud Engineer.
+- I'm a tech enthusiast, currently working as a Junior IT Specialist in DevOps Team, with a goal of becoming a DevOps/Cloud Engineer.
 - My tech journey began with web applications and APIs developed with Django and Flask, sparking my passion for the world of DevOps.
 - In my free time, I delve into the world of cybersecurity, enthusiastically tackling CTF challenges on TryHackMe to continuously improve my skills.
 - Beyond tech, I'm captivated by Japanese language and culture, an ongoing passion that I'm eager to explore further.
