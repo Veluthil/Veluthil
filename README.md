@@ -80,11 +80,9 @@ When I'm not coding or studying, you can often find me indulging in my other hob
 
 ---
 
-### 🌕 Currently Learning (& Soon Will Dive Into):
+### 🌕 Currently Learning:
 - Jenkins
 - Ansible
-- (Kubernetes)
-- (Terraform)
   
 ---
 
