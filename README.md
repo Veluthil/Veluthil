@@ -18,7 +18,6 @@
 - In my free time, I delve into the world of cybersecurity, enthusiastically tackling CTF challenges on TryHackMe to continuously improve my skills.
 - Beyond tech, I'm captivated by Japanese language and culture, an ongoing passion that I'm eager to explore further.
 - Adding a unique dimension to my journey, my background in Veterinary Medicine (DVM) brings a distinct perspective to my pursuits.
-- Looking ahead, I aspire to dive into the realm of AI, driven by curiosity and the desire to create impactful solutions.
 - With an open mind and a hunger for new knowledge, I'm also excited about learning any new technologies and languages to broaden my horizons.
 
   
